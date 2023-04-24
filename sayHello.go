@@ -1,5 +1,5 @@
 package go_git
 
 func SayHello() string {
-	return "Hello"
+	return "Hello world"
 }
